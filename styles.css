@@ -1,0 +1,84 @@
+.body {
+    text-align: center;
+    position: static;
+  }
+
+  .header-image {
+    width:5%;
+    right:30%;
+
+  }
+  
+  .botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+  }
+  
+  .container-fluid {
+    padding: 7% 15%
+  }
+  
+  .form-control-dark {
+    border-color: var(--bs-gray);
+  }
+  .form-control-dark:focus {
+    border-color: #fff;
+    box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+  }
+  
+  .text-small {
+    font-size: 85%;
+  }
+  
+  .dropdown-toggle {
+    outline: 0;
+  }
+  
+  .big-heading {
+    font-family:"Poppins, sans-serif";
+    dont-size:3.5rem;
+    line-height:1.5;
+    
+  }
+  
+  .center {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+
+
+
+/* Texto Principal */
+
+.big-heading {
+    margin-top: 20px;
+    margin-bottom: 20px;;
+}
+
+.small-heading {
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+
+/* Pilares */
+
+.pilar-primero {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+
+
+.pilar-segundo {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.pilar-tercero {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+  
